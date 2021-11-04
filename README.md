@@ -4,7 +4,7 @@ Hybris Academy practice work. Part 2
 
 Ciklum Hybris test task with using Java Servlets.
 
-##Database
+## Database
 ```mysql
     create table order_items
     (
@@ -35,7 +35,7 @@ Ciklum Hybris test task with using Java Servlets.
     );
 ```
 
-##Available routes
+## Available routes
 **/show-products** - *list of created products*
 
 **/product** - *product creation form*
